@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1>Yum Yum Cooking</h1>
+    <h2>Mo Buttu Mo Shuga Waffles</h2>
+    <p>
+      These waffles are incredibly delicious! The moment you start mixing the
+      ingredients, the sweet aroma wafts through the kitchen, making you eager
+      for them to be ready. With a perfect blend of flour, sugar, and a generous
+      amount of butter, these waffles promise a delightful treat.
+    </p>
+    <p>
+      As they cook, the outside becomes beautifully golden and crispy while the
+      inside stays fluffy and soft. Each bite offers a rich, buttery flavor that
+      is simply irresistible. Whether you enjoy them plain, with fresh berries,
+      or drizzled with maple syrup, these waffles are sure to satisfy your
+      cravings.
+    </p>
+    <p>
+      Perfect for breakfast, brunch, or even a late-night snack, these waffles
+      can easily become a favorite in your household. So gather your ingredients
+      and treat yourself to this tasty delight—your taste buds will thank you!
+    </p>
+
+    <ul>
+      <li>2 cup all purpose flour</li>
+      <li>3⁄4 cup sugar</li>
+      <li>1 Tablespoon baking powder</li>
+      <li>2 teaspoon vanilla extract</li>
+      <li>1 3⁄4 cup milk</li>
+      <li>2 eggs</li>
+      <li>1 cup melted butter</li>
+    </ul>
+
+    <ol>
+      <li>Mix flour, sugar, and baking powder in a large bowl.</li>
+
+      <li>
+        Separate egg yolks from whites and set the egg whites aside in a bowl.
+      </li>
+
+      <li>
+        Next, mix in milk, egg yolks, vanilla, and butter into the bowl with the
+        dry ingredients
+      </li>
+
+      <li>
+        Beat egg whites for a few minutes in a mixer and fold into the batter.
+      </li>
+
+      <li>Cook waffles in a waffle iron for about 1-2 minutes</li>
+    </ol>
+  </body>
+</html>

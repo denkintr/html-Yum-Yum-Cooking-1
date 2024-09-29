@@ -1,0 +1,25 @@
+body {
+  background: ffffff;
+}
+h1 {
+  font-size: 70px;
+  font-weight: 900;
+}
+h2 {
+  font-size: 45px;
+  font-weight: 900;
+  font-family: cursive;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+ul {
+  font-size: 20px;
+}
+ol {
+  font-size: 20px;
+}
